@@ -1,1 +1,1 @@
-# Turtle-Race - A GUI GAME THAT ALLOWS YOU PICK A COLOR OF A TURTLE FOR RACE AND VISUALLY RACE A LIST OF TURTLES AND TELLS YOU IF YOU WIN OR LOSE USING THE TURTLE COORDINATE SYSTEMS
+# Turtle-Race - A GUI game that allows you pick a color of a turtle for a race and visually race a list of turtles and tells you if you win or lose.
